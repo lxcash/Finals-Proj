@@ -1,0 +1,15 @@
+<!-- IIT406 -COMPUTER PROGRAMMING 3 -->
+<!-- Assoc. Prof. Cristina D. De Los Santos 
+	IT Faculty
+	1st Semester, AY 2022-2023 
+	
+	Casiguran, Alexandrea N. IT2A-->
+	 
+<!DOCTYPE html>
+<html lang="en"> 
+<head> 
+
+		<title> About </title> 
+		
+		<!-- <link rel="stylesheet" href="css_q2.css"> CSS part -->
+</head> 
